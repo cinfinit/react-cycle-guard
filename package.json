@@ -1,0 +1,33 @@
+{
+  "name": "react-cycle-guard",
+  "version": "1.0.0",
+  "description": "🛡️ A tiny dev-only React hook to detect excessive re-renders (like infinite loops)",
+  "main": "src/useCycleGuard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinfinit/react-cycle-guard.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "debug",
+    "performance",
+    "infinite-loop",
+    "render"
+  ],
+  "author": "cinfinit",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17 || ^18"
+  },
+  "files": [
+    "src"
+  ],
+  "bugs": {
+    "url": "https://github.com/cinfinit/react-cycle-guard/issues"
+  },
+  "homepage": "https://github.com/cinfinit/react-cycle-guard#readme"
+}
