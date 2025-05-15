@@ -1,6 +1,6 @@
 {
   "name": "react-cycle-guard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🛡️ A tiny dev-only React hook to detect excessive re-renders (like infinite loops)",
   "main": "src/useCycleGuard.js",
   "scripts": {
