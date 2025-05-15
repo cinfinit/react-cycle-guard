@@ -1,6 +1,12 @@
 # 🛡️ react-cycle-guard
 
-A tiny React hook that helps you detect infinite loops and excessive re-renders — *before* they crash your app.
+Introducing react-cycle-guard — your React component’s personal bodyguard.
+It doesn’t block bad props or fight evil side effects,
+but it will throw itself between your app and an infinite render loop.
+It’s like useEffect()’s older sibling who says:
+"Hey. You’ve rendered 15 times this second. You okay, champ?"
+
+In Simple Terms : A tiny React hook that helps you detect infinite loops and excessive re-renders — *before* they crash your app.
 
 ---
 
