@@ -31,6 +31,7 @@ It monitors how many times a component re-renders per second.
 
 If it crosses a threshold (**default: 10 renders/second**), it shows a warning like:
 
+<img src="./demo.png" alt="react-cycle-guard Demo" width="600">
 
 ---
 
